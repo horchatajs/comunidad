@@ -10,7 +10,7 @@
 
 5. Crea una archivo `Nombre_Apellido.yml` dentro de la carpeta perfiles reemplazando el texto con tu nombre y apellido.
 
-6. Copia todo el contenido del archivo `Ejemplo_Perfil.yml` y pegalo en el archivo con tu nombre del paso anterior. Reemplaza toda la información de ejemplo con tu propia información. Guarda el archivo.
+6. Copia todo el contenido del archivo [`Ejemplo_Perfil.yml`](Ejemplo_Perfil.yml) y pegalo en el archivo con tu nombre del paso anterior. Reemplaza toda la información de ejemplo con tu propia información. Guarda el archivo.
 
 7. Agrega esos cambios a tu _branch_ que creaste anteriormente usando el comando `git add .` Ahora haz un commit confirmando tus cambios ejecutando el comando `git commit -m "Agregar [mi nombre] a perfiles de la comunidad.` cambiando `[mi nombre]` con tu nombre.
 
