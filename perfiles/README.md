@@ -18,7 +18,7 @@
 
 9. Envia tus cambios haciendo click en el botón "Compare & pull request" en tu repositorio en GitHub. Luego click en "Create pull request".
 
-10. ¡Excelenete! Tus cambios van a ser revisados y posteriormente incorporados en el proyecto.
+10. ¡Excelente! Tus cambios van a ser revisados y posteriormente incorporados en el proyecto.
 
 ## Información adicional
 
