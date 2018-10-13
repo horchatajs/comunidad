@@ -5,7 +5,7 @@ Además, podés utilizar este proyecto para hacer tu primera contribución a un 
 
 ## Cómo participar
 
-- [Añadir mi perfil al proyecto](perfiles/other_file.md).
+- [Añadir mi perfil al proyecto](perfiles/README.md).
 
 ## ¿Ideas o sugerencias?
 
